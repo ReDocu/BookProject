@@ -6,7 +6,7 @@
 
 <details>
 <summary>CT [ Computational Thinking ]</summary>
-
+   
 - CT01 : 실용주의 프로그래밍
 - CT02 : 클린 코드
 - CT03 : 클린 아키텍처
@@ -16,7 +16,7 @@
 
 <details>
 <summary>PGA [ Python Game Programming ]</summary>
-
+   
 - PGP01 : 게임으로 배우는 파이썬 예제 학습
 - PGP02 : 파이썬으로 배우는 게임 개발 입문편
 - PGP03 : 파이썬으로 배우는 게임 개발 실전편   
@@ -26,7 +26,7 @@
 
 <details>
 <summary> DAP [ Data Analyze Programming ]</summary>
-
+   
 - DAP01 : Pandas를 이용한 데이터 분석 실습 
 - DAP02 : Pandas CookBook
 - DAP03 : Pandas In Action
@@ -36,7 +36,7 @@
 
 <details>
 <summary>AIP [ Artificial Intelligence Programming ]</summary>
-
+   
 - AIP01 : 바닥부터 배우는 강화학습
 </details>
 
@@ -44,7 +44,7 @@
 
 <details>
 <summary>CTA [ Coding Test Alogrithm ]</summary>
-
+   
 - CTA01 : 뇌를 자극하는 알고리즘
 - CTA02 : 이것이 자료구조 + 알고리즘 이다
 - CTA03 : 코딩 테스트를 위한 자료 구조와 알고리즘 with C++
@@ -55,7 +55,7 @@
 
 <details>
 <summary>GCP [ Game Content Programming ]</summary>
-
+   
 - GCP01 : C++ 프로그래밍
 - GCP02 : C++ STL
 - GCP03 : WINAPI 정복 1
@@ -72,7 +72,7 @@
 
 <details>
 <summary>HCT [ Human Computational Thinking ]</summary>
-
+   
 - HCT01 : 파이썬 핵심 개발자들과의 인터뷰
 - HCT02 : 프로그래머의 뇌
 </details>
@@ -81,7 +81,7 @@
 
 <details>
 <summary>ETC</summary>
-
+   
 - HCT01 : 파이썬 핵심 개발자들과의 인터뷰
 </details>
 
